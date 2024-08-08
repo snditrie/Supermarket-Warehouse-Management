@@ -1,0 +1,82 @@
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/obj/Debug/net5.0/SuperMarketApp.csproj.AssemblyReference.cache
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/obj/Debug/net5.0/SuperMarketApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/obj/Debug/net5.0/SuperMarketApp.AssemblyInfoInputs.cache
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/obj/Debug/net5.0/SuperMarketApp.AssemblyInfo.cs
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/obj/Debug/net5.0/SuperMarketApp.csproj.CoreCompileInputs.cache
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/obj/Debug/net5.0/SuperMarketApp.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/obj/Debug/net5.0/SuperMarketApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/bin/Debug/net5.0/appsettings.json
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/bin/Debug/net5.0/SuperMarketApp.exe
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/bin/Debug/net5.0/SuperMarketApp.deps.json
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/bin/Debug/net5.0/SuperMarketApp.runtimeconfig.json
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/bin/Debug/net5.0/SuperMarketApp.runtimeconfig.dev.json
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/bin/Debug/net5.0/SuperMarketApp.dll
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/bin/Debug/net5.0/ref/SuperMarketApp.dll
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/bin/Debug/net5.0/SuperMarketApp.pdb
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/bin/Debug/net5.0/Humanizer.dll
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/bin/Debug/net5.0/Npgsql.dll
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/obj/Debug/net5.0/staticwebassets/SuperMarketApp.StaticWebAssets.Manifest.cache
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/obj/Debug/net5.0/staticwebassets/SuperMarketApp.StaticWebAssets.xml
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/obj/Debug/net5.0/scopedcss/bundle/SuperMarketApp.styles.css
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/obj/Debug/net5.0/SuperMarketApp.RazorTargetAssemblyInfo.cache
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/obj/Debug/net5.0/SuperMarketApp.csproj.CopyComplete
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/obj/Debug/net5.0/SuperMarketApp.dll
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/obj/Debug/net5.0/ref/SuperMarketApp.dll
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/obj/Debug/net5.0/SuperMarketApp.pdb
+C:/Users/Thinkpad/Documents/Enigma/3Test Placement/SuperMarketApp/obj/Debug/net5.0/SuperMarketApp.genruntimeconfig.cache
+/home/enigma/Documents/summary/test-project/Super-Market/obj/Debug/net5.0/SuperMarketApp.csproj.AssemblyReference.cache
+/home/enigma/Documents/summary/test-project/Super-Market/obj/Debug/net5.0/SuperMarketApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/Documents/summary/test-project/Super-Market/obj/Debug/net5.0/SuperMarketApp.AssemblyInfoInputs.cache
+/home/enigma/Documents/summary/test-project/Super-Market/obj/Debug/net5.0/SuperMarketApp.AssemblyInfo.cs
+/home/enigma/Documents/summary/test-project/Super-Market/obj/Debug/net5.0/SuperMarketApp.csproj.CoreCompileInputs.cache
+/home/enigma/Documents/summary/test-project/Super-Market/obj/Debug/net5.0/SuperMarketApp.MvcApplicationPartsAssemblyInfo.cs
+/home/enigma/Documents/summary/test-project/Super-Market/obj/Debug/net5.0/SuperMarketApp.MvcApplicationPartsAssemblyInfo.cache
+/home/enigma/Documents/summary/test-project/Super-Market/obj/Debug/net5.0/SuperMarketApp.sourcelink.json
+/home/enigma/Documents/summary/test-project/Super-Market/obj/Debug/net5.0/SuperMarketApp.dll
+/home/enigma/Documents/summary/test-project/Super-Market/obj/Debug/net5.0/SuperMarketApp.pdb
+/home/enigma/Documents/summary/test-project/Super-Market/bin/Debug/net5.0/appsettings.Development.json
+/home/enigma/Documents/summary/test-project/Super-Market/bin/Debug/net5.0/appsettings.json
+/home/enigma/Documents/summary/test-project/Super-Market/bin/Debug/net5.0/SuperMarketApp.StaticWebAssets.xml
+/home/enigma/Documents/summary/test-project/Super-Market/bin/Debug/net5.0/SuperMarketApp
+/home/enigma/Documents/summary/test-project/Super-Market/bin/Debug/net5.0/SuperMarketApp.deps.json
+/home/enigma/Documents/summary/test-project/Super-Market/bin/Debug/net5.0/SuperMarketApp.runtimeconfig.json
+/home/enigma/Documents/summary/test-project/Super-Market/bin/Debug/net5.0/SuperMarketApp.runtimeconfig.dev.json
+/home/enigma/Documents/summary/test-project/Super-Market/bin/Debug/net5.0/SuperMarketApp.dll
+/home/enigma/Documents/summary/test-project/Super-Market/bin/Debug/net5.0/SuperMarketApp.pdb
+/home/enigma/Documents/summary/test-project/Super-Market/bin/Debug/net5.0/Humanizer.dll
+/home/enigma/Documents/summary/test-project/Super-Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/enigma/Documents/summary/test-project/Super-Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/enigma/Documents/summary/test-project/Super-Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/enigma/Documents/summary/test-project/Super-Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/enigma/Documents/summary/test-project/Super-Market/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/enigma/Documents/summary/test-project/Super-Market/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/home/enigma/Documents/summary/test-project/Super-Market/bin/Debug/net5.0/Npgsql.dll
+/home/enigma/Documents/summary/test-project/Super-Market/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/enigma/Documents/summary/test-project/Super-Market/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/enigma/Documents/summary/test-project/Super-Market/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/enigma/Documents/summary/test-project/Super-Market/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/enigma/Documents/summary/test-project/Super-Market/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/enigma/Documents/summary/test-project/Super-Market/obj/Debug/net5.0/SuperMarketApp.RazorTargetAssemblyInfo.cache
+/home/enigma/Documents/summary/test-project/Super-Market/obj/Debug/net5.0/scopedcss/bundle/SuperMarketApp.styles.css
+/home/enigma/Documents/summary/test-project/Super-Market/obj/Debug/net5.0/staticwebassets/SuperMarketApp.StaticWebAssets.Manifest.cache
+/home/enigma/Documents/summary/test-project/Super-Market/obj/Debug/net5.0/staticwebassets/SuperMarketApp.StaticWebAssets.Pack.cache
+/home/enigma/Documents/summary/test-project/Super-Market/obj/Debug/net5.0/staticwebassets/msbuild.SuperMarketApp.Microsoft.AspNetCore.StaticWebAssets.props
+/home/enigma/Documents/summary/test-project/Super-Market/obj/Debug/net5.0/staticwebassets/msbuild.build.SuperMarketApp.props
+/home/enigma/Documents/summary/test-project/Super-Market/obj/Debug/net5.0/staticwebassets/msbuild.buildMultiTargeting.SuperMarketApp.props
+/home/enigma/Documents/summary/test-project/Super-Market/obj/Debug/net5.0/staticwebassets/msbuild.buildTransitive.SuperMarketApp.props
+/home/enigma/Documents/summary/test-project/Super-Market/obj/Debug/net5.0/SuperMar.A3899106.Up2Date
+/home/enigma/Documents/summary/test-project/Super-Market/obj/Debug/net5.0/refint/SuperMarketApp.dll
+/home/enigma/Documents/summary/test-project/Super-Market/obj/Debug/net5.0/SuperMarketApp.genruntimeconfig.cache
+/home/enigma/Documents/summary/test-project/Super-Market/obj/Debug/net5.0/ref/SuperMarketApp.dll
